@@ -54,7 +54,19 @@ email: 'George.69076@live.com'
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Honour Students
-  - Visitors
 ---
 
-George Aziz is an Honours (Computing) student at Curtin University. He currently works full-time at Capgemini as a consultant, working with clients such as Rio Tinto to help support, manage and develop applications.
+**Bio**<br>
+George Aziz is an Honours (Computing) student at Curtin University. He currently works full-time at Capgemini as a consultant, working with clients such as Rio Tinto and WA Country Health Services (WACHS) to help support, manage and develop applications.
+<br><br>
+
+**Current Project Description**<br>
+Distributed collaborative machine learning (DCML) is a relatively new field within machine learning where clients are able to collaborate together while maintaining data privacy. Recently, approaches such as federated learning and split learning have been developed within the field, however, they have issues that mainly stem from trust between clients. Examples of trust issues include model poisoning attacks where the client could send unreliable updates to the global model, resulting in a degradation of accuracy performance. Through the use of blockchain technology and leveraging a new approach called Split-fed learning (Which combines federated and split learning together to achieve higher data privacy), this project aims to address the trust issues to help create an approach that is more secure and reliable in the DCML field.
+<br><br>
+
+
+
+
+
+
+
