@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Jack Lanciano
+title: George Aziz
 
 # Username (this should match the folder name)
 authors:
-  - Jack-Lanciano
+  - George-Aziz
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Advanced Science Student - Computing
+role: Honours Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,22 +18,17 @@ organizations:
     url: 'https://www.curtin.edu.au/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Combining computer science with my previous entrepreneurial experience to develop software products as a business
+bio: My research interests include blockchain, machine learning and bioinformatics.
 
 interests:
-  - Running small businesses
-  - Motorcycles
-  - Mobile app development 
+  - Blockchain technology
+  - Distributed learning
 
 education:
   courses:
-    - course: BSc in Advanced Science (Computing)
+    - course: BSc in Computing (Software Engineering)
       institution: Curtin University
-      year: 2022 - Ongoing
-
-    - course: Ignition
-      institution: Curtin University
-      year: 2019 - 2019 
+      year: 2019 - 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,10 +37,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:20066312@student.curtin.edu.au'
+    link: 'mailto:George.69076@live.com'
   - icon: github
     icon_pack: fab
-    link: https://github.com/JackL1998
+    link: https://github.com/george-aziz
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -53,24 +48,20 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: '20066312@student.curtin.edu.au'
+email: 'George.69076@live.com'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Advanced Computing Students
+  - Honour Students
 ---
 
 **Bio**<br>
-Jack Lanciano is an Advanced Science (Computing) student at Curtin University. He has had previous experience as a business owner in Sandy Cracks Clothing, Star Skills Swimming and more. He is using his degree to help develop his next business idea. RideHub: a motorcycle safety, communication and ride management platform.  
+George Aziz is an Honours (Computing) student at Curtin University. He currently works full-time at Capgemini as a consultant, working with clients such as Rio Tinto and WA Country Health Services (WACHS) to help support, manage and develop applications.
 <br><br>
 
 **Current Project Description**<br>
-  RideHub is a mobile application for motorcyclists. It works as an alternative and an improvement to helmet intercom systems, automatically enhancing and adjusting each user's voice to minimise background noise while riding. Although expensive intercoms are preferred, they aren't required, simply use ordinary earbuds as a cheaper alternative. 
-  <br>
-  RideHub features an interactive map, when combined with a motorcycle phone mount, allows the rider to explore the best routes in their area with friends or new riders. The app includes various safety features such as motorcycle specific hazard warnings and crash detection to make riding safer. Users can track their rides and save their favourite routes. The app is packed with many other useful features.
-  <br>
-  Riding is a dangerous sport with a passionate community of riders. It has a social element that is hindered by the challenges of communication and coordination. RideHub makes it easier to spontaneously connect and ride with anyone nearby. RideHub makes group riding much easier to coordinate, ensuring no one gets lost. Those who do not wish to voice chat can use RideHub to quickly and efficiently relay key information to the group, no more confusing hand signals! 
+  Distributed collaborative machine learning (DCML) is a relatively new field within machine learning where clients are able to collaborate together while maintaining data privacy. Recently, approaches such as federated learning and split learning have been developed within the field, however, they have issues that mainly stem from trust between clients. Examples of trust issues include model poisoning attacks where the client could send unreliable updates to the global model, resulting in a degradation of accuracy performance. Through the use of blockchain technology and leveraging a new approach called Split-fed learning (Which combines federated and split learning together to achieve higher data privacy), this project aims to address the trust issues to help create an approach that is more secure and reliable in the DCML field.
   <br><br>
 
 
